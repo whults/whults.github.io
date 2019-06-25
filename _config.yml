@@ -1,7 +1,7 @@
 # Site settings
 title: BY Blog
 SEOTitle: C208实验室| BY Blog
-header-img: img/post-bg-2015.jpg
+header-img: img/post-bg-desktop.jpg
 email: chinacipher@126.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, C208的博客,report"
@@ -97,7 +97,7 @@ service-worker: true
 
 
 # Friends
-友情链接: [
+friends: [
     {
         title: "武汉大学",
         href: "http://www.whu.edu.cn/"
