@@ -1,7 +1,7 @@
 # Site settings
 title: BY Blog
 SEOTitle: C208实验室| BY Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-2015.jpg
 email: chinacipher@126.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, C208的博客,report"
@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: 612c46bd1fe151879b89                            #生成的clientID
+  clientSecret: 199d11ce480aadb2206cbe2e9e9b397efe5b5dcb   #生成的clientSecret
+  repo: whults.github.io    #仓库名称
+  owner: whults    #github用户名
+  admin: whults
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
