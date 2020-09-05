@@ -20,6 +20,7 @@ directed grey-box fuzzing (DGF).与基于覆盖的模糊测试（其目标是增
 
 
 # Introduction
+
 ## directed fuzzing 导向fuzz
 
 模糊测试是一种自动程序测试技术，通常分为两类：基于覆盖率的模糊测试和导向模糊测试。 
@@ -39,6 +40,7 @@ directed grey-box fuzzing (DGF).与基于覆盖的模糊测试（其目标是增
 
 
 ## Challenges
+
 ### C1
 
 Lack of balanced labeled data.训练深度学习模型需要均衡的标签数据，但是fuzzing过程中的输入是不平衡的。尤其是在模糊测试的早期，甚至没有可到达buggy code的输入。没有均衡的标记数据，训练后的模型将容易出现过拟合的情况。
