@@ -1,10 +1,10 @@
 # Site settings
-title: C208 Family
-SEOTitle: C208实验室
+title: C401 Family
+SEOTitle: C401实验室
 header-img: img/post-bg-desk.jpg
 email: chinacipher@126.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, C208的博客,report"
+keyword: "BY, BY Blog, C401的博客,report"
 url: "http://whults.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/whults/whults.github.io.git" # you code repository
