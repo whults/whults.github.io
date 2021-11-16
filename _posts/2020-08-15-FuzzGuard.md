@@ -2,7 +2,7 @@
 layout:     post
 title:      组会纪要
 subtitle:   2020-08-15 组会纪要
-date:       2019-08-15
+date:       2020-08-15
 author:     瞿铸枫
 header-img: img/post-bg-desk.jpg
 catalog: true
